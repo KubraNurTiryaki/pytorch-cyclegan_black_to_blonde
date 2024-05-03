@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/jessicali9530/celeba-dataset adresisnden
+    img_align_celebA klasörüyle
+    list_attr_celeba.csv dosyasını indir ve projedeki dataset klasörüne at.
+Bu proje BTK Akademinin Bilgisayarlı Görü Uygulama Alanları kursunda geliştirilmiştir.
